@@ -1,0 +1,6 @@
+{
+  "name": "FluentX AI - Advanced AI English Speaking & Learning",
+  "description": "Speak English fluently with Ava, your personal AI voice tutor. Interactive speaking roleplays, native language translation, pronunciation coaching, grammar doctor, and CEFR-aligned assessments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
